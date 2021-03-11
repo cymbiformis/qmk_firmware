@@ -18,6 +18,10 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
+//>>>
+//#define TAPPING_TERM 180
+//<<<
+
 #pragma once
 
 // place overrides here
